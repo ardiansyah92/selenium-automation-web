@@ -1,3 +1,7 @@
+
+import random
+import string
+
 class input_element:
     @staticmethod
     def id_generator(length=4, chars=string.ascii_letters + string.digits):
